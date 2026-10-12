@@ -5,6 +5,6 @@
 
 * ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * ##Progress and Dev Logs##
-**WEEK 2(DESIGN PHASE)**
+* **WEEK 2(DESIGN PHASE)**
 * **DAY 1 & 2 :**
 * SO IN DAY 1 I setup the Onshape software and watch tutorials to understand the software also the guide is very helpful to explore the software. 
