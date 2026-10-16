@@ -22,7 +22,7 @@
 6. [2026-10-15 – 15-10-2026](#2026-10-15-15-10-2026)
 7. [2026-10-15 – 15-10-2026](#2026-10-15-15-10-2026)
 8. [2026-10-16 – 14-10-2026](#2026-10-16-14-10-2026)
-9. [2026-10-16 – 15-10-2026](#2026-10-16-15-10-2026)
+9. [2026-10-16 – 16-10-2026](#2026-10-16-16-10-2026)
 10. [2026-10-16 – 17-10-2026](#2026-10-16-17-10-2026)
 
 ## Design
@@ -101,11 +101,11 @@ so i forget to upload this timelapse thats why i am uploading this so i in this 
 
 [Timelapse](https://lookout.hackclub.com/api/media/bfa6b1d5-93ac-4676-8af0-c4f139af1fb0/video.mp4)
 
-### 2026-10-16 – 15-10-2026
+### 2026-10-16 – 16-10-2026
 
 **0.78h**
 
-15-10-2026
+16-10-2026
 so in this session i build my own custom track and from today i am going to build my real project previously  i was just learning basic tools and shapes
 
 [Timelapse](https://lookout.hackclub.com/api/media/73d26589-4e74-4f3a-aec7-c843b0dccbd6/video.mp4)
