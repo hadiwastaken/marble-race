@@ -32,7 +32,8 @@
 *   
 *   -----------------------------------------------------------------------------------------------------------------------------------------------------------
 *   ## IMAGE OF FINAL PROJECT##
-*  <img width="503" height="413" alt="funnel" src="https://github.com/user-attachments/assets/736f82df-fb39-4226-90ce-3b7ecbc5c3e8" />
+* <img width="1287" height="885" alt="full project" src="https://github.com/user-attachments/assets/cf2296b7-03e3-44c5-a135-441063e425ca" />
+
 
 
 * 
