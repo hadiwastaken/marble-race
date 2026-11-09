@@ -15,6 +15,7 @@ this is the editable link of my project: https://cad.onshape.com/documents/cc731
   * I use a spiral for track and made it wide enough to crawl for marble.
   * and a proper base for sturcture
   * also it features a catching marble section where marble is dropped from the spiral.
+  * also a round big pillar to support spiral.
 
 * ## PARTS :##
 *  SPIRREL
